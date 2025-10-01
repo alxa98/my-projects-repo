@@ -1,0 +1,126 @@
+﻿Record ID,Hospital Type,Hospital Department,Age,Sex,Work Experience,Receiving ongoing nursing training sessions in Hospital  ,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28
+1,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,1,0,0,0,2,2,2,1,2,2,0,0,2,0,0,2,0,2,1,1
+2,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,1,1,0,0,2,2,2,2,1,2,2,0,2,2,0,2,2,0,0,2,2
+3,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,2
+4,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,2,2,2,0,2,2,0,0,2,0,0,0,2
+5,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,1,2,2,2,2,1,2,2,0,1,2,0,1,2,0,0,1,1
+6,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,1,2,0,0,2,2,2,2,2,2,1,0,2,2,0,2,2,0,0,0,1
+7,Private,Critical Care Units,20 to 29 years,Male,6 months-5 year,Yes,2,2,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,2
+8,Private,Critical Care Units,30 to 39 years,Female,11 year or more,Yes,2,2,2,0,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,2
+9,Private,Critical Care Units,20 to 29 years,Male,6 months-5 year,Yes,2,1,0,0,2,2,2,2,2,2,1,1,2,1,0,2,2,0,1,1,1
+10,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,1,0,0,2,2,2,2,2,2,2,0,0,2,0,2,2,0,0,0,0
+11,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,0
+12,Private,Critical Care Units,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,2,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,1
+13,Private,Critical Care Units,20 to 29 years,Male,6 months-5 year,Yes,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,2
+14,Private,Critical Care Units,20 to 29 years,Male,6 months-5 year,Yes,2,2,0,0,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,0
+15,Private,Critical Care Units,20 to 29 years,Male,6 months-5 year,Yes,2,2,2,1,2,2,2,1,0,2,2,2,2,2,0,2,2,0,0,0,2
+16,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,0,2,2,0,0,2,0,0,2,0,0,0,0
+17,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,0
+18,Private,Emergency,30 to 39 years,Female,6-10 year,Yes,2,2,0,0,0,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,2
+19,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,2,2,2,2,2,2,0,1,2,0,0,0,2
+20,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,1,1,0,0,0,2,1,2,1,1,1,0,2,1,0,1,1,0,1,2,1
+21,Private,Emergency,20 to 29 years,Female,6-10 year,Yes,2,2,0,0,2,2,2,0,0,2,0,2,0,0,2,2,0,0,0,2,2
+22,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,1,0,1,2,1,2,2,2,2,1,2,2,0,0,2,0,2,0,0
+23,Private,Emergency,20 to 29 years,Male,6 months-5 year,Yes,2,2,0,0,2,2,2,2,1,1,2,0,2,2,0,2,2,0,0,0,1
+24,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,1,2,2,2,2,0,2,2,2,2,2,0,0,1,0
+25,Private,Emergency,30 to 39 years,Female,6 months-5 year,Yes,2,2,2,0,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,0,2
+26,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,0
+27,Private,Emergency,30 to 39 years,Male,6-10 year,Yes,2,2,1,1,2,2,0,2,2,2,2,2,2,0,1,1,2,2,0,0,2
+28,Private,Emergency,30 to 39 years,Female,6-10 year,Yes,2,2,0,0,2,2,2,2,1,2,2,0,2,2,0,2,2,2,0,0,1
+29,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,1,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2
+30,Private,Emergency,20 to 29 years,Female,6-10 year,Yes,2,2,0,1,2,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2
+31,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+32,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,2,1,2,2,1,2,2,2,1,2,0,0,1,1,0,1,2,0,0,1,1
+33,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,2,2,2,2,2,2,1,2,2,2,0,0,2,2,2,2,2,0,0,1,2
+34,Private,Medicine,30 to 39 years,Male,6-10 year,Yes,2,0,0,1,2,2,2,2,0,2,2,2,0,1,0,0,2,0,0,0,2
+35,Private,Medicine,30 to 39 years,Female,11 year or more,Yes,2,2,0,0,2,2,2,2,0,2,2,2,2,2,0,0,2,0,0,0,0
+36,Private,Critical Care Units,40 year or more,Male,6-10 year,Yes,2,2,2,0,2,2,2,2,2,2,2,2,2,2,0,2,2,0,0,2,2
+37,Private,Critical Care Units,20 to 29 years,Male,6 months-5 year,Yes,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,2
+38,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,2,1,2,0,0,2,2,2,1,2,2,0,2,2,0,2,2,1,0,0,2
+39,Private,Medicine,20 to 29 years,Male,6-10 year,Yes,2,1,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,1,1
+40,Private,Medicine,20 to 29 years,Female,6-10 year,Yes,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+41,Private,Oncology,20 to 29 years,Female,6-10 year,Yes,2,0,0,0,2,2,0,0,0,2,2,2,2,2,2,0,2,0,2,0,2
+42,Private,Emergency,20 to 29 years,Male,6 months-5 year,Yes,0,2,2,2,0,2,2,0,2,2,0,0,2,2,2,2,2,2,0,0,0
+43,Private,Oncology,30 to 39 years,Male,6-10 year,Yes,2,2,1,0,2,2,2,1,0,2,2,1,2,1,0,0,2,0,0,0,2
+44,Private,Medicine,30 to 39 years,Male,11 year or more,Yes,2,2,2,0,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,0,1
+45,Private,Medicine,20 to 29 years,Male,6 months-5 year,Yes,2,2,2,0,2,2,2,2,1,2,2,0,2,2,2,2,2,2,1,1,1
+46,Private,Oncology,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,1,2,1,0,2,2,0,2,2,0,0,0,0
+47,Private,Medicine,30 to 39 years,Female,6-10 year,Yes,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+48,Private,Medicine,30 to 39 years,Female,6-10 year,Yes,2,2,0,0,2,2,0,2,1,2,2,0,2,2,0,2,2,0,0,0,1
+49,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,2,2,2,0,2,2,2,2,1,2,2,1,2,2,0,2,2,2,2,0,1
+50,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,2,2,2,1,2,2,2,2,1,2,2,0,2,2,0,2,2,0,0,0,1
+51,Private,Medicine,30 to 39 years,Female,6-10 year,Yes,2,2,0,0,2,0,2,2,0,0,0,2,0,2,2,2,2,0,0,0,1
+52,Private,Medicine,30 to 39 years,Female,6 months-5 year,Yes,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+53,Private,Medicine,20 to 29 years,Male,6 months-5 year,Yes,2,2,2,2,0,2,2,2,2,2,2,2,2,2,0,0,2,0,0,2,2
+54,Private,Emergency,30 to 39 years,Male,11 year or more,Yes,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,2,0,0,0,0
+55,Private,Critical Care Units,30 to 39 years,Female,6-10 year,Yes,2,2,2,0,2,2,2,2,0,2,2,0,1,2,0,2,2,0,0,0,1
+56,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,1,1,0,0,2,2,0,2,2,0,2,0,1,0,0,0,2,0,0,0,2
+57,Private,Medicine,20 to 29 years,Female,6 months-5 year,Yes,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,2,0,2,2,2
+58,Private,Emergency,40 year or more,Female,11 year or more,Yes,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,1
+59,Private,Emergency,20 to 29 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,1,2,2,0,2,2,2,2,2,0,0,0,1
+60,Private,Medicine,20 to 29 years,Male,6 months-5 year,Yes,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2
+61,Private,Emergency,30 to 39 years,Female,6 months-5 year,Yes,2,2,2,0,2,2,1,2,1,0,2,0,1,2,0,2,2,0,0,1,2
+62,Private,Critical Care Units,30 to 39 years,Female,6 months-5 year,Yes,2,2,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,1
+63,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,0,1,0,2,2,2,2,2,2,2,2,1,1,0,2,2,0,0,0,2
+64,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,0,1,0,2,2,1,0,1,2,2,2,1,1,0,0,2,2,2,0,2
+65,Public,Emergency,30 to 39 years,Female,6-10 year,No,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,2,0,2
+66,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,1,2,0,2,2,2,2,0,2,2,0,2,2,0,0,2,0,0,0,2
+67,Public,Emergency,40 year or more,Female,6-10 year,No,2,2,2,2,2,2,2,0,0,2,2,0,2,2,0,2,0,2,0,0,2
+68,Public,Emergency,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,1,1,1,2,2,0,2,2,0,0,2,2,2,0,2
+69,Public,Emergency,30 to 39 years,Male,6 months-5 year,No,2,2,2,0,0,2,2,2,2,2,2,2,2,2,0,2,2,0,0,0,2
+70,Public,Emergency,20 to 29 years,Female,6 months-5 year,No,2,2,1,0,2,1,2,2,0,2,2,2,2,2,0,0,2,0,0,0,2
+71,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,2,0,0,2,0,2,0,0,2,0,0,2,2,0,2,2,0,0,2
+72,Public,Emergency,30 to 39 years,Male,6 months-5 year,No,0,2,1,0,2,0,0,2,0,1,2,0,2,2,2,2,2,2,0,0,2
+73,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,2,0,2,2,1,2,1,1,2,0,2,2,2,1,2,2,2,0,0
+74,Public,Emergency,20 to 29 years,Female,6 months-5 year,No,2,1,2,0,2,2,2,2,0,2,2,0,2,2,2,2,2,0,0,0,2
+75,Public,Emergency,30 to 39 years,Female,11 year or more,No,2,2,2,0,2,2,0,2,2,2,2,0,2,2,0,2,2,2,2,0,2
+76,Public,Emergency,30 to 39 years,Female,6 months-5 year,No,2,2,2,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,2,0,2
+77,Public,Emergency,30 to 39 years,Female,6-10 year,No,2,2,2,0,2,2,2,2,0,2,2,0,2,2,0,0,2,0,2,0,2
+78,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,1,0,2,2,2,2,0,2,2,0,2,2,0,0,2,2,0,0,2
+79,Public,Emergency,30 to 39 years,Male,6 months-5 year,No,2,2,2,0,0,2,2,2,1,0,2,0,2,2,0,0,2,2,2,0,2
+80,Public,Emergency,30 to 39 years,Male,6 months-5 year,No,2,2,2,0,0,2,2,2,1,0,2,2,2,2,0,0,2,2,2,0,2
+81,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,1,2,0,2,2,2,2,0,2,0,2,2,2,0,0,2,2,2,0,2
+82,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,1,0,2,2,2,0,2,2,2,2,2,2,0,2,2,2,0,1,2
+83,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,1,0,2,2,0,0,0,2,2,2,2,2,0,2,2,0,0,0,2
+84,Public,Oncology,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,2,2,2,2,2,2,0,0,2,2,0,0,0
+85,Public,Oncology,20 to 29 years,Female,6 months-5 year,No,2,2,1,0,2,1,1,2,0,2,2,0,2,2,0,0,2,2,2,0,2
+86,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,1,0,2,0,0,2,2,2,2,0,2,2,0,2,0,2,0,0,2
+87,Public,Emergency,20 to 29 years,Male,6 months-5 year,No,2,2,2,0,2,2,0,2,0,0,2,0,2,2,0,0,2,2,2,0,2
+88,Public,Critical Care Units,40 year or more,Male,11 year or more,No,2,2,2,0,2,0,2,2,0,0,2,0,2,2,0,2,2,0,0,0,0
+89,Public,Critical Care Units,30 to 39 years,Male,6-10 year,No,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,0,0,2
+90,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,0,2,0,0,2,2,0,2,2,0,0,0,2
+91,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,2,0,2,2,2,2,2,0,0,2,2,0,2,2,0,0,0,2
+92,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,2,0,2,2,2,2,2,0,0,2,2,0,2,2,0,0,0,2
+93,Public,Medicine,40 year or more,Male,6-10 year,No,2,2,2,0,2,2,2,2,2,2,0,2,0,0,0,0,2,2,2,0,2
+94,Public,Medicine,30 to 39 years,Male,6-10 year,No,2,1,0,2,0,2,0,0,0,2,2,0,2,2,0,2,2,0,0,0,2
+95,Public,Medicine,30 to 39 years,Female,6-10 year,No,0,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,2,0,0,0,0
+96,Public,Critical Care Units,30 to 39 years,Male,6-10 year,No,2,0,2,2,2,0,1,1,1,1,2,2,2,2,0,2,2,0,2,0,2
+97,Public,Critical Care Units,20 to 29 years,Male,6 months-5 year,No,2,1,2,2,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,0,0
+98,Public,Critical Care Units,30 to 39 years,Male,6-10 year,No,2,0,2,0,0,1,1,2,2,2,2,0,1,1,2,0,2,0,2,0,2
+99,Public,Critical Care Units,30 to 39 years,Male,6-10 year,No,2,0,2,0,2,2,2,2,2,2,2,0,1,1,0,2,2,0,0,0,2
+100,Public,Critical Care Units,20 to 29 years,Male,6 months-5 year,No,2,0,2,2,2,0,2,2,2,2,0,2,0,0,0,2,2,2,2,2,0
+101,Public,Critical Care Units,30 to 39 years,Male,6 months-5 year,No,2,2,0,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,2,2
+102,Public,Critical Care Units,30 to 39 years,Male,6-10 year,No,2,2,0,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,2,2
+103,Public,Critical Care Units,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,0,2,0,0,0,0
+104,Public,Critical Care Units,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,2
+105,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,2
+106,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,0,2,0,2,2,2,2,2,2,2,0,2,2,2,0,2,0,2,0,2
+107,Public,Medicine,20 to 29 years,Male,6 months-5 year,No,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,2
+108,Public,Medicine,40 year or more,Female,11 year or more,No,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,2,2,0,0,0,2
+109,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2,0,0,2
+110,Public,Medicine,30 to 39 years,Female,6-10 year,No,2,2,2,2,2,1,2,2,0,2,2,0,2,2,0,0,2,0,0,0,2
+111,Public,Oncology,30 to 39 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,2,2,2,0,2,2,0,0,2,0,0,0,2
+112,Public,Oncology,20 to 29 years,Male,6 months-5 year,No,2,2,2,0,2,2,1,1,0,2,2,0,2,2,0,2,2,0,2,0,2
+113,Public,Medicine,20 to 29 years,Male,6 months-5 year,No,2,0,1,0,2,2,0,0,2,2,2,2,1,1,0,2,2,2,2,0,2
+114,Public,Oncology,20 to 29 years,Male,6 months-5 year,No,2,2,0,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2,2,0,2
+115,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,0,2,0,0,2,2,0,2,2,0,0,0,2
+116,Public,Medicine,30 to 39 years,Male,6 months-5 year,No,2,2,1,0,2,1,1,2,0,2,2,2,2,2,0,0,2,0,0,0,2
+117,Public,Oncology,20 to 29 years,Female,6 months-5 year,No,2,1,2,0,2,2,2,2,0,2,2,0,2,2,0,0,2,0,0,0,2
+118,Public,Medicine,20 to 29 years,Male,6 months-5 year,No,2,2,1,0,2,0,0,2,2,2,2,0,2,2,0,2,2,2,0,0,2
+119,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0
+120,Public,Medicine,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,2,0,2,2,0,2,2,0,2,2,0,0,0,2
+121,Public,Medicine,20 to 29 years,Male,6 months-5 year,No,2,2,2,2,2,2,0,2,0,2,2,0,2,2,0,2,2,0,0,0,2
+122,Public,Medicine,30 to 39 years,Female,6-10 year,No,2,1,0,2,0,2,0,0,0,2,2,0,2,2,2,2,2,0,0,0,2
+123,Public,Critical Care Units,20 to 29 years,Female,6 months-5 year,No,2,2,2,2,2,2,2,2,2,2,2,0,2,2,0,2,2,2,0,0,2
+124,Public,Critical Care Units,30 to 39 years,Female,6-10 year,No,2,2,2,0,2,2,2,2,0,2,2,0,2,2,0,0,2,0,2,0,2
+125,Public,Critical Care Units,20 to 29 years,Female,6 months-5 year,No,2,2,2,0,2,2,2,1,0,2,2,0,2,2,0,2,2,0,0,2,2
